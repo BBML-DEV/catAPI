@@ -1,5 +1,4 @@
 
-<h1> JavaScript Assíncrono </h1>
 <h1> Atividade: API "catAPI" </h1>
 
 <p> Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão. <p>
